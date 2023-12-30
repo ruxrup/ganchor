@@ -381,7 +381,7 @@ function GameDetails({
                 </>
               ) : (
                 <p>
-                  You rated with game {playedUserRating} <span>⭐️</span>
+                  You rated this game {playedUserRating} <span>⭐️</span>
                 </p>
               )}
             </div>
